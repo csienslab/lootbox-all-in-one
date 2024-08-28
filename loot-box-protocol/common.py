@@ -7,7 +7,7 @@ import math
 
 # Global variables
 F = GF(curve.curve_order)
-PK = TrustedSetup.generate(F, 5, True)
+PK = TrustedSetup.generate(F, 200, True)
 intervals = 10
 CommonPolynomial = [8, 7, 8, 6, 5, 3, 2, 1, 2, 3, 4, 5, 7]
 BulletinBoardDir = "./BulletinBoard/"

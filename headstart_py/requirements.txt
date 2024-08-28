@@ -4,7 +4,6 @@ black==24.4.2
 blinker==1.8.2
 certifi==2024.2.2
 cffi==1.16.0
-chiavdf @ git+ssh://git@github.com/csienslab/chaivdf.git@8addeb0914ea3ab5c056b156a0136c978b842de8
 click==8.1.7
 cryptography==42.0.7
 Flask==3.0.3
