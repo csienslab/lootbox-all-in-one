@@ -1,5 +1,11 @@
 # Loot Box Protocol All-in-One
 
+Projects:
+
+* https://github.com/csienslab/toy-headstart-py
+* https://github.com/csienslab/loot-box-protocol
+* https://github.com/csienslab/chiavdf
+
 ## Requirements
 
 * Docker on Linux amd64 (Tested on Docker 27.1.2)
